@@ -20,7 +20,7 @@ export default function Reflex() {
 
 	function startGame() {
 		setInstructions('Wait for the box to turn green...');
-		const delay = Math.random() * 3000 + 1000; // Random delay between 1 and 4 seconds
+		const delay = Math.random() * 4000 + 1000; // Delay between 5 - 1s
 
 		const newTimeoutId = setTimeout(() => {
 			setIsGreen(true);
