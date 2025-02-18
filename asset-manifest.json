@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/late-reflex/static/css/main.d5a7cbd1.css",
+    "main.css": "/late-reflex/static/css/main.8364cf4d.css",
     "main.js": "/late-reflex/static/js/main.d79521c3.js",
     "static/js/453.7384c9f9.chunk.js": "/late-reflex/static/js/453.7384c9f9.chunk.js",
     "index.html": "/late-reflex/index.html",
-    "main.d5a7cbd1.css.map": "/late-reflex/static/css/main.d5a7cbd1.css.map",
+    "main.8364cf4d.css.map": "/late-reflex/static/css/main.8364cf4d.css.map",
     "main.d79521c3.js.map": "/late-reflex/static/js/main.d79521c3.js.map",
     "453.7384c9f9.chunk.js.map": "/late-reflex/static/js/453.7384c9f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a7cbd1.css",
+    "static/css/main.8364cf4d.css",
     "static/js/main.d79521c3.js"
   ]
 }
